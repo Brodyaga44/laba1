@@ -6,7 +6,8 @@
 
   **Скриншот рабочего окна приложения:**
   ----------------------------------------
- ![image](https://github.com/Brodyaga44/Task1/assets/145764043/f684ff0a-41f3-4832-aec4-e30ef2744741)
+![calculator](https://github.com/Brodyaga44/laba1/assets/145764043/ca5cddab-7e5b-4c0d-8d3b-823ecc97395d)
+
 
 **Разбор части кода на примере класса BMI**
 ```
