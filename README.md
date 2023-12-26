@@ -6,7 +6,8 @@
 
   **Скриншот рабочего окна приложения:**
   ----------------------------------------
-![calculator](https://github.com/Brodyaga44/laba1/assets/145764043/ca5cddab-7e5b-4c0d-8d3b-823ecc97395d)
+![image](https://github.com/Brodyaga44/laba1/assets/145764043/2f803ac1-a99e-4ea5-b9d6-82bb7c5efff9)
+
 
 
 **Разбор части кода на примере класса BMI**
@@ -53,7 +54,8 @@ public class BMI {
 ## Архитектура
 > Диаграмма классов:
 
-![image](https://github.com/Brodyaga44/Task1/assets/145764043/2146c4d0-a464-4f38-a00f-69d49dccbcad)
+![calculator](https://github.com/Brodyaga44/laba1/assets/145764043/243f3896-42d7-4642-92cd-0b29603b4f41)
+
 ## Завсимости
 Для работы данного приложежния необходимы JavaFX и JDK 20.
 
